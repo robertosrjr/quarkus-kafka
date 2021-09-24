@@ -1,4 +1,4 @@
-# Quarkus, Eclipse MicroProfile 3.3 e Apache Kafka Project
+# Quarkus, Eclipse MicroProfile 3.3 and Apache Kafka Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
