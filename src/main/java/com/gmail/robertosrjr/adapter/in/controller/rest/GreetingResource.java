@@ -1,4 +1,4 @@
-package com.gmail.robertosrjr;
+package com.gmail.robertosrjr.adapter.in.controller.rest;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
