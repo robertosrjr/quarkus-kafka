@@ -5,11 +5,10 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 	
-# Dependencies:
+## Dependencies:
 - [Eclipse MicroProfile 3.3](https://quarkus.io/blog/quarkus-eclipse-microprofile-3-3/)
-- [Apache Kafka Reference Guide](https://quarkus.io/guides/kafka)
-  - [Getting Started Kafka](https://quarkus.io/blog/getting-started-kafka/)
-
+- [Getting Started Kafka](https://quarkus.io/blog/getting-started-kafka/)
+  - [Apache Kafka Reference Guide](https://quarkus.io/guides/kafka)
 
 ## Running the application in dev mode
 
