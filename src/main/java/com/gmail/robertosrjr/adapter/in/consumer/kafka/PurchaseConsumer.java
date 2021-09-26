@@ -13,6 +13,6 @@ public class PurchaseConsumer {
 
     @Incoming("purchase-in")
     public void receive(Record<String, String> record) {
-        logger.infof("Got a movie: %d - %s", record.key(), record.value());
+        logger.infof("Got a purchase: %s - %s", record.key(), record.value());
     }
 }
