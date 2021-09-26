@@ -8,6 +8,8 @@
 *.iml
 *.iws
 
+.properties
+
 # Maven
 log/
 target/
