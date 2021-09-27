@@ -2,10 +2,12 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
+This project uses Quarkus with the specification set MicroProfile and Apache Kafka with Confluent Cloud
+
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 	
-## Dependencies:
+## References:
 - [Eclipse MicroProfile 3.3](https://quarkus.io/blog/quarkus-eclipse-microprofile-3-3/)
 - [Getting Started Kafka](https://quarkus.io/blog/getting-started-kafka/)
   - [Apache Kafka Reference Guide](https://quarkus.io/guides/kafka)
